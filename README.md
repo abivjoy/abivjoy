@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                    PROFILE HEADER                     -->
+<!--                     ABI JOY README                    -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -36,17 +36,13 @@
 
 ---
 
-<!-- ===================================================== -->
-<!--                       ABOUT ME                        -->
-<!-- ===================================================== -->
-
 ## Professional Summary
 
 I am a **Full Stack Software Developer** focused on building **scalable web applications**, **secure backend systems**, **enterprise-style admin dashboards**, and **production-ready SaaS platforms**.
 
-I work across both frontend and backend development, with strong attention to **clean architecture**, **API security**, **database design**, **performance**, and **maintainable code structure**.
+I work across frontend and backend development with strong attention to **clean architecture**, **API security**, **database design**, **performance**, and **maintainable code structure**.
 
-My development approach is centered on writing software that is not only functional, but also **organized, secure, scalable, and easy to maintain**.
+My development approach is centered on writing software that is **organized, secure, scalable, and easy to maintain**.
 
 ---
 
@@ -92,10 +88,6 @@ My development approach is centered on writing software that is not only functio
 
 ---
 
-<!-- ===================================================== -->
-<!--                      TECH STACK                       -->
-<!-- ===================================================== -->
-
 ## Technology Stack
 
 ### Frontend
@@ -119,7 +111,7 @@ My development approach is centered on writing software that is not only functio
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma,vercel" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -158,10 +150,6 @@ My development approach is centered on writing software that is not only functio
 </table>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    DEVELOPMENT AREAS                  -->
-<!-- ===================================================== -->
 
 ## What I Build
 
@@ -203,10 +191,6 @@ My development approach is centered on writing software that is not only functio
 
 ---
 
-<!-- ===================================================== -->
-<!--                    PROFESSIONAL VALUE                 -->
-<!-- ===================================================== -->
-
 ## Professional Strengths
 
 - Strong understanding of **frontend and backend integration**
@@ -219,19 +203,19 @@ My development approach is centered on writing software that is not only functio
 
 ---
 
-<!-- ===================================================== -->
-<!--                       GITHUB STATS                    -->
-<!-- ===================================================== -->
-
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abivjoy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" alt="Abi Joy GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abivjoy&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Abi Joy Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abivjoy&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abivjoy&theme=tokyonight&hide_border=true&border_radius=12" alt="Abi Joy GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abivjoy&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abivjoy&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abivjoy&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
@@ -243,10 +227,6 @@ My development approach is centered on writing software that is not only functio
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                       CONNECT                         -->
-<!-- ===================================================== -->
 
 ## Connect With Me
 
@@ -269,10 +249,6 @@ My development approach is centered on writing software that is not only functio
 </p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                         FOOTER                        -->
-<!-- ===================================================== -->
 
 <p align="center">
   <b>Code with clarity. Build with quality. Grow with consistency.</b>
